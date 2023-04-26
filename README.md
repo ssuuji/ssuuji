@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # ⋆｡˚ ☁︎ ˚  Kim Su Ji   ｡⋆｡˚☽˚｡⋆
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssuuji&count_bg=%23ACE4FF&title_bg=%239BB1FB&icon=aiqfome.svg&icon_color=%23ACE4FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🌱Git Status & Solved.ac
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuuji&show_icons=true&theme=onedark)
